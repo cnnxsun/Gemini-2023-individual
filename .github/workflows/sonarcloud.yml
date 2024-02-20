@@ -1,4 +1,4 @@
-Name: SonarCloudAnalysis
+Name: SonarCloud workflow
 SchemaVersion: "1.0"
 
 Triggers:
